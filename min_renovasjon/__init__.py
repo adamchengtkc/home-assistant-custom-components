@@ -23,7 +23,7 @@ CONST_APP_KEY = "RenovasjonAppKey"
 CONST_URL_FRAKSJONER = 'https://komteksky.norkart.no/komtek.renovasjonwebapi/api/fraksjoner'
 CONST_URL_TOMMEKALENDER = 'https://komteksky.norkart.no/komtek.renovasjonwebapi/api/tommekalender?' \
                           'gatenavn=[gatenavn]&gatekode=[gatekode]&husnr=[husnr]'
-CONST_DATA_FILENAME = "min_renovasjon.dat"
+CONST_DATA_FILENAME = "/custom_components/min_renovasjon/min_renovasjon.dat"
 CONST_DATA_HEADER_COMMENT = '# Auto-generated file. Do not edit.'
 CONST_APP_KEY_VALUE = "AE13DEEC-804F-4615-A74E-B4FAC11F0A30"
 
